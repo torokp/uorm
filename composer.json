@@ -1,0 +1,11 @@
+{
+    "name": "torokp/uorm",
+    "description": "Simple object-relational mapping for small scripts",
+    "authors": [
+        {
+            "name": "Peter Torok",
+            "email": "torokp@progterv.info"
+        }
+    ],
+    "require": {}
+}
